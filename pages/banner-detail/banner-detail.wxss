@@ -1,0 +1,4 @@
+/* pages/banner-detail/banner-detail.wxss */
+.banner{
+  width:750rpx;
+}
